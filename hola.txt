@@ -14,3 +14,4 @@ un cambio desde develop
 un cambio en master que debe chocar con develop"
 otro cambio para generar un conflicto de rebase
 cambio directo en task que no me debería dejar subir
+el ultimo cambio si subio :P este no debe pasar 
