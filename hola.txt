@@ -12,3 +12,4 @@ cambio realizado por un colaborador
 otro cambio que no será tomado en cuenta por cherry-pick
 un cambio desde develop
 un cambio en master que debe chocar con develop"
+otro cambio para generar un conflicto de rebase
